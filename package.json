@@ -1,0 +1,25 @@
+{
+  "name": "graphql-typeorm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sqlite3": "^4.0.6",
+    "typescript": "^3.3.1",
+    "vesper": "^0.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govorov/graphql-typeorm-koa-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/govorov/graphql-typeorm-koa-workshop/issues"
+  },
+  "homepage": "https://github.com/govorov/graphql-typeorm-koa-workshop#readme"
+}

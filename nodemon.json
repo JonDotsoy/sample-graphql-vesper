@@ -1,0 +1,13 @@
+{
+    "verbose": false,
+    "ignore": [
+        "*.js",
+        "*.js.map",
+        "*.spec.js",
+        "node_modules"
+    ],
+    "watch": [
+        "**/*.ts"
+    ],
+    "exec": "tsc && node ./src/index.js"
+}
